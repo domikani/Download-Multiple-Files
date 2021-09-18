@@ -1,0 +1,15 @@
+{
+  "name": "rowmaps",
+  "version": "1.0.0",
+  "description": "Download GeoJSON files for each of the local authorities published on ROWMAPS",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Domna Kanari",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.4",
+    "chalk": "^4.1.2"
+  }
+}
